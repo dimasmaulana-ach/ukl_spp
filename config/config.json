@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "pluton",
+    "password": "pluton",
+    "database": "ukl_spp",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}

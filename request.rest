@@ -1,0 +1,13 @@
+GET  http://localhost:7000/api/kelas
+
+###
+POST http://localhost:7000/api/kelas
+Content-Type: 'application/json'
+
+{
+    "nama": "Daaa",
+    "jurusan": "TKJ",
+    "angkatan": "29"
+}
+
+###
